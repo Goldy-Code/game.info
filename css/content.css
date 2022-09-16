@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url(http://surl.li/datdn);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  margin: 30px;
+  color: aliceblue;
+}
+
+.image {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+img {
+  border: 3px solid whitesmoke;
+  width: 800px;
+  height: 400px;
+}
+
+.text-ds {
+  text-align: center;
+}
+
+.ds {
+  display: inline-block;
+  font-size: 22px;
+  margin-left: 30px;
+  margin-right: 30px;
+  color: aliceblue;
+}
+
+.description{
+  text-align: center;
+  font-size: 18px;
+  color: aliceblue;
+} 
